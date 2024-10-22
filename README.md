@@ -26,6 +26,6 @@ This is a repository to submit Challenge #1
 
 
 Reseach
-Artificial Intelligence Research (jpmorgan.com)
-Co-pilot – MSN.com, CNBC.com, American Banker
+Artificial Intelligence Research (https://www.jpmorgan.com)
+Co-pilot – (https://www.MSN.com), (https://www.CNBC.com), American Banker
 J.P. Morgan & Co. - Wikipedia

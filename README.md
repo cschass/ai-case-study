@@ -19,7 +19,7 @@ This is a repository to submit Challenge #1
 ## Results
 *	JP has hundreds of publications on their AI research, they are working with universities to give AI Research awards, and finding ways to use AI in their business to enrich the lives of their customers and employees. (jpmorganchase.com)
 *	Although JP leads in the AI Research, Capital One leads in AI patents and Wells Fargo in AI investments. (Axios)
-##Recommendations
+## Recommendations
 *	I have been in the financial services business for over 35 years and the need for AI and ML in the backroom function space is greatly needed. I understand that most financial services want to focus on the customer and not the employee but by empowering the employee they are focusing on the customer.
 *	The new AI would utilize the existing core systems and automate the repetitive tasks freeing up the employee to focus on more complex tasks. It is also important to utilize technology to help train a younger set of workers. The current staff in most financial industry back officers are very seasoned and ripe for retirement. It has been a struggle for at least a decade to find employees with back-room knowledge.
 *	It is very important for the banks to move forward with this new technology to stay in business as their staff ages and to keep up with the competition.
